@@ -1,2 +1,2 @@
-# gitaflow
+# gitflow
 new commits directly master
